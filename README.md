@@ -4,7 +4,7 @@
 
 Fonte : https://www.w3schools.com/howto/howto_css_parallax.asp
 
-- Durante o projeto, com auxilo do professor Arthur, ficamos responsáveis por produzir uma página Web com utilização de um efeito visual chamado Parallax Efect, que como descrito acima, modifica a velocidade dos elementos ao fundo, em relação a elementos dispostos na frente.
+- Durante o projeto, com auxilo do professor Arthur, e de toda equipe da iOS Lab, ficamos responsáveis por produzir uma página Web com utilização de um efeito visual chamado Parallax Efect, que como descrito acima, modifica a velocidade dos elementos ao fundo, em relação a elementos dispostos na frente.
 
 - Isso causa um efeito visual extremamente atrativo, trazendo dinâmica para o site.
 
